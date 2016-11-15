@@ -1,0 +1,15 @@
+{
+  "name": "mywiki",
+  "version": "1.0.0",
+  "description": "redoing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Saphier",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "morgan": "^1.7.0"
+  }
+}
